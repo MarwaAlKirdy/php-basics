@@ -7,6 +7,4 @@ function swap($var1, $var2){
     return $var1 . "<br>" . $var2;
 }
 
-echo swap(32, 45);
-
 ?>
